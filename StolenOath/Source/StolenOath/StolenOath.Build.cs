@@ -17,6 +17,7 @@ public class StolenOath : ModuleRules
 			"AIModule",
 			"StateTreeModule",
 			"GameplayStateTreeModule",
+			"ProceduralMeshComponent",
 			"UMG",
 			"Slate"
 		});

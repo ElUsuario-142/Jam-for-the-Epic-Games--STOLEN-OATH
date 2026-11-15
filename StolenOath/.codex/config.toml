@@ -1,2 +1,4 @@
 [mcp_servers.unreal-mcp]
 url = "http://127.0.0.1:8000/mcp"
+[plugins."unreal-editor-skills-for-codex".mcp_servers."unreal-mcp"]
+enabled = false
